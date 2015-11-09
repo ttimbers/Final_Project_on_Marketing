@@ -8,3 +8,5 @@ The sales data includes main variables such as date of order, sales amount  and 
 differ in sales data from different companies. 
 
 <img src="../../Presentation1.jpg">
+
+![Alt text](../../Presentation1.jpg?raw=true)
