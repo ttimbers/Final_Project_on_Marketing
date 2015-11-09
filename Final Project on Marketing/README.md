@@ -9,4 +9,3 @@ differ in sales data from different companies.
 
 <img src="../../Presentation1.jpg">
 
-![Alt text](../../Presentation1.jpg?raw=true)
